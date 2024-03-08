@@ -1,7 +1,5 @@
 # **SCAMMER REVENGE!**
 
-### LET'S REVENGE SCAMMER!
-
 ---
 
 > Repository hanya versi recode dari repository milik [MalvinVal](https://github.com/malvinval/scammer-revenge)
@@ -10,7 +8,7 @@ Cara pemakaian:
 
 - Edit bagian `app.js`
 
-```
+```js
 const teks = `TEKS DISINI` //Kata kata buat scammer
 
 const url = (`https://api.telegram.org/bot6717883399:AAEqQNYiEHnPot3ktUxhikbmW_pIdkAhkrE/sendMessage?parse_mode=markdown&chat_id=6771033460&text=${teks}`) //HAPUS dan GANTI "https://api.telegram.org/bot6717883399:AAEqQNYiEHnPot3ktUxhikbmW_pIdkAhkrE/sendMessage?parse_mode=markdown&chat_id=6771033460&text="
